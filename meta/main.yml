@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: cloudwatch_agent
   author: John Sposato
   description: Tech enthusiast, fitness fanatic
   company: Mobiquity, Inc
