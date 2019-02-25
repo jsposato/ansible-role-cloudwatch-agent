@@ -1,7 +1,7 @@
-Role Name
+ansible-role-cloudwatch-agent
 =========
 
-A brief description of the role goes here.
+This role installs and configures the CloudWatch agent.
 
 Requirements
 ------------
@@ -30,7 +30,7 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-BSD
+BSD, MIT
 
 Author Information
 ------------------
